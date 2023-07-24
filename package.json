@@ -1,0 +1,20 @@
+{
+  "name": "keysystems",
+  "version": "1.0.0",
+  "description": "Proyecto de administración  y logistica de reserva de aulas o ambientes de la instución SENA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "SENA",
+    "KeySystems",
+    "project"
+  ],
+  "author": "Sharick Mejia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.7.0"
+  }
+}
